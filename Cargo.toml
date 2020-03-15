@@ -1,0 +1,11 @@
+[package]
+name = "h264-decoder-rs"
+version = "0.1.0"
+authors = ["Jon Lamb <jon@auxon.io>"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+
+[build-dependencies]
+cmake = "0.1"

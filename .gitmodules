@@ -1,0 +1,3 @@
+[submodule "h264_decoder"]
+	path = h264_decoder
+	url = https://github.com/meerkat-cv/h264_decoder.git
